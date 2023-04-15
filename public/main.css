@@ -31,3 +31,23 @@ codersrank-skills-chart {
   --axis-bg-color: transparent;
   --label-font-size: 12px;
 }
+codersrank-portfolio {
+    --grid-columns: 2;
+  
+    --item-bg-color: #161616;
+    --item-border-radius: 8px;
+    --item-spacing: 16px;
+    --item-padding: 16px;
+    --logo-size: 64px;
+    --tag-bg-color: rgba(255,255,255,0.075);
+    
+    --link-text-color: var(--theme-color);
+    --link-bg-color: rgba(255,255,255,0.1);
+    --link-hover-bg-color: rgba(255,255,255,0.125);
+    --link-active-bg-color: rgba(255,255,255,0.075);
+    --link-border-radius: 8px;
+    --link-padding: 4px 8px;
+    --link-text-transform: none;
+    --link-font-weight: 500;
+    --link-margin: 8px;
+}
