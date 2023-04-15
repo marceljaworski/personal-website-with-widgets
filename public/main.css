@@ -13,3 +13,14 @@ codersrank-summary {
   --badge-border: 1px solid rgba(0, 0, 0, 0.1);
   --badge-box-shadow: none;
 }
+codersrank-activity {
+  padding: 8px;
+  border-radius: 8px;
+  background: #161616;
+  --bg-color-0: #111;
+  --bg-color-1: rgba(var(--theme-color-rgb), 0.25);
+  --bg-color-2: rgba(var(--theme-color-rgb), 0.5);
+  --bg-color-3: rgba(var(--theme-color-rgb), 0.75);
+  --bg-color-4: rgba(var(--theme-color-rgb), 1);
+  --label-text-color: rgba(255, 255, 255, 0.54);
+}
