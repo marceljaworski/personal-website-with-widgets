@@ -24,3 +24,10 @@ codersrank-activity {
   --bg-color-4: rgba(var(--theme-color-rgb), 1);
   --label-text-color: rgba(255, 255, 255, 0.54);
 }
+codersrank-skills-chart {
+  --label-text-color: rgba(255, 255, 255, 0.54);
+  --chart-bg-color: #161616;
+  --chart-border-radius: 8px;
+  --axis-bg-color: transparent;
+  --label-font-size: 12px;
+}
